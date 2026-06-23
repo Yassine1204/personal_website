@@ -49,3 +49,6 @@ New ideas:
 - make contact page the place where they can send you an email ON THE WEBSITE
 - Dark light mode button
 
+
+We remove Home. Now you can just click the name, and that will bring you back to the home page
+We remove contact, that will now be done by the icons/logos
