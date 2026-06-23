@@ -41,14 +41,5 @@ Just talk about stuff in your field
 
 
 
-
-
-New ideas:
-- Your name in nice font on the top left corner in every page
-- add link to github, linkedin, and mail by getting their logo
-- make contact page the place where they can send you an email ON THE WEBSITE
-- Dark light mode button
-
-
-We remove Home. Now you can just click the name, and that will bring you back to the home page
-We remove contact, that will now be done by the icons/logos
+List of future ideas:
+- Light/Dark button using Javascript
