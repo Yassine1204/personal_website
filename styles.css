@@ -21,6 +21,8 @@ nav {
     width: 100%;
     background-color: whitesmoke;
     padding: 50px 50px;   /*24 32*/
+    z-index: 100;
+
 }
 
 .name {
