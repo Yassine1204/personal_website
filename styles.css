@@ -48,6 +48,17 @@ nav {
 
 }
 
+.hero {
+    font-family: "Playfair Display";
+    font-size: 40px;
+    opacity: 0.8;
+    line-height: 1.3;
+    position: relative;
+    padding-left: 100px;
+    padding-top: 500px;
+
+}
+
 ul {
     list-style: none;
     margin: 0;

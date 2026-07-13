@@ -43,3 +43,8 @@ Just talk about stuff in your field
 
 List of future ideas:
 - Light/Dark button using Javascript
+
+
+
+Home page Design:
+Sentence at the bottom of the screen: "Yassine is a first-year computer science student building things to understand them."
