@@ -86,3 +86,45 @@ section {
 }
 
 
+.section-label { /*This is for the label text*/
+    font-size: 11px;
+    text-transform: uppercase;
+    opacity: 0.5;
+    padding-top: 8px;
+    letter-spacing: 0.1em;
+
+
+}
+
+.company-name {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 8px 0 4px 0;
+
+}
+
+.role {
+    font-style: italic;
+    opacity: 0.7;
+    margin: 0;
+}
+
+.time-stamp {
+    font-size: 13px;
+    opacity: 0.5;
+    margin: 6px 0;
+
+}
+
+
+.job-description {
+    font-size: 14px;
+    line-height: 1.6;
+    max-width: 700px;
+
+}
+
+
+.entry {
+    margin-bottom: 60px;
+}
