@@ -59,7 +59,7 @@ nav {
     position: relative;
     padding-left: 80px;
     align-items: flex-end;
-    height: 90vh;
+    height: 80vh; /*90 vh*/
     max-width: 800px;
 
 }
